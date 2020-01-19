@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "excelviewer-client-side-solution",
+    "id": "3f3614dd-034f-4ff4-93e2-4fd9c5a7dbf9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/excelviewer.sppkg"
+  }
+}
